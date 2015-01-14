@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log version="1.0" tool="runtool">
+
+<msg id="1" tool="runtool">
+  <type>log-start</type>
+  <arg>2015/01/04 12:51:19</arg>
+</msg>
+<msg id="2" tool="runtool">
+  <type>collector-starts</type>
+</msg>
+<msg id="3" tool="runtool">
+  <type>marker-file</type>
+  <arg>E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\My Inspector XE Results - Faz_2_ANTLR\r000mi2\r000mi2.inspxe</arg>
+</msg>
+<msg id="4" tool="mc">
+  <type>EXEC_OF_INTEREST</type>
+  <arg>E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\bin\Debug\Faz_2_ANTLR.exe</arg>
+  <arg>10432</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="5" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\bin\Debug\Faz_2_ANTLR.exe</arg>
+  <arg>0x01170000</arg>
+  <arg>0x0117DFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="6" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\detoured.dll</arg>
+  <arg>0x0F000000</arg>
+  <arg>0x0F005FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="7" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Program Files (x86)\Intel\Inspector XE 2015\bin32\ccrt12.dll</arg>
+  <arg>0x56000000</arg>
+  <arg>0x5616BFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="8" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SYSTEM32\MSCOREE.DLL</arg>
+  <arg>0x70030000</arg>
+  <arg>0x70079FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="9" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvdxgiwrap.dll</arg>
+  <arg>0x70360000</arg>
+  <arg>0x7037EFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="10" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvd3d9wrap.dll</arg>
+  <arg>0x70470000</arg>
+  <arg>0x7049AFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="11" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\SysWOW64\nvinit.dll</arg>
+  <arg>0x731E0000</arg>
+  <arg>0x7320BFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="12" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\CRYPTBASE.dll</arg>
+  <arg>0x752D0000</arg>
+  <arg>0x752DBFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="13" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\SspiCli.dll</arg>
+  <arg>0x752E0000</arg>
+  <arg>0x7533FFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="14" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\GDI32.dll</arg>
+  <arg>0x753C0000</arg>
+  <arg>0x7544FFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="15" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\SETUPAPI.dll</arg>
+  <arg>0x75450000</arg>
+  <arg>0x755ECFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="16" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\OLEAUT32.dll</arg>
+  <arg>0x755F0000</arg>
+  <arg>0x7567EFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="17" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\ole32.dll</arg>
+  <arg>0x75680000</arg>
+  <arg>0x757DBFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="18" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\IMM32.DLL</arg>
+  <arg>0x75830000</arg>
+  <arg>0x7588FFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="19" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\RPCRT4.dll</arg>
+  <arg>0x75AD0000</arg>
+  <arg>0x75BBFFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="20" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\DEVOBJ.dll</arg>
+  <arg>0x75BC0000</arg>
+  <arg>0x75BD1FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="21" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\SysWOW64\sechost.dll</arg>
+  <arg>0x75C60000</arg>
+  <arg>0x75C78FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="22" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\LPK.dll</arg>
+  <arg>0x75E50000</arg>
+  <arg>0x75E59FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="23" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\CFGMGR32.dll</arg>
+  <arg>0x75E60000</arg>
+  <arg>0x75E86FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="24" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\USP10.dll</arg>
+  <arg>0x75E90000</arg>
+  <arg>0x75F2CFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="25" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\ADVAPI32.dll</arg>
+  <arg>0x76340000</arg>
+  <arg>0x763DFFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:20 2015</timestamp>
+</msg>
+<msg id="26" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\USER32.dll</arg>
+  <arg>0x763E0000</arg>
+  <arg>0x764DFFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:21 2015</timestamp>
+</msg>
+<msg id="27" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\KERNEL32.dll</arg>
+  <arg>0x76570000</arg>
+  <arg>0x7667FFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:21 2015</timestamp>
+</msg>
+<msg id="28" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\msvcrt.dll</arg>
+  <arg>0x76680000</arg>
+  <arg>0x7672BFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:22 2015</timestamp>
+</msg>
+<msg id="29" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\KERNELBASE.dll</arg>
+  <arg>0x76730000</arg>
+  <arg>0x76776FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:22 2015</timestamp>
+</msg>
+<msg id="30" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\MSCTF.dll</arg>
+  <arg>0x767E0000</arg>
+  <arg>0x768ABFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:22 2015</timestamp>
+</msg>
+<msg id="31" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\SysWOW64\ntdll.dll</arg>
+  <arg>0x77900000</arg>
+  <arg>0x77A7FFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:23 2015</timestamp>
+</msg>
+<msg id="32" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll</arg>
+  <arg>0x6FDC0000</arg>
+  <arg>0x6FE3DFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:24 2015</timestamp>
+</msg>
+<msg id="33" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\syswow64\SHLWAPI.dll</arg>
+  <arg>0x76780000</arg>
+  <arg>0x767D6FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:25 2015</timestamp>
+</msg>
+<msg id="34" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764</arg>
+  <arg>0</arg>
+  <arg>18675</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:25 2015</timestamp>
+</msg>
+<msg id="35" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll</arg>
+  <arg>0x6F570000</arg>
+  <arg>0x6FC0EFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:25 2015</timestamp>
+</msg>
+<msg id="36" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\MSVCR120_CLR0400.dll</arg>
+  <arg>0x6F2F0000</arg>
+  <arg>0x6F3C6FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:25 2015</timestamp>
+</msg>
+<msg id="37" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764</arg>
+  <arg>0</arg>
+  <arg>15809</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:26 2015</timestamp>
+</msg>
+<msg id="38" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Program Files (x86)\Intel\Inspector XE 2015\bin32\dnclrprof.dll</arg>
+  <arg>0x10000000</arg>
+  <arg>0x1002DFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:26 2015</timestamp>
+</msg>
+<msg id="39" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312</arg>
+  <arg>0,1,1</arg>
+  <arg>13189,964,954</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:27 2015</timestamp>
+</msg>
+<msg id="40" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312</arg>
+  <arg>0,1,1</arg>
+  <arg>5553,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:28 2015</timestamp>
+</msg>
+<msg id="41" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,0</arg>
+  <arg>12451,0,0,44,4255</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:29 2015</timestamp>
+</msg>
+<msg id="42" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>18793,0,0,0,709</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:30 2015</timestamp>
+</msg>
+<msg id="43" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\VERSION.dll</arg>
+  <arg>0x72930000</arg>
+  <arg>0x72938FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:30 2015</timestamp>
+</msg>
+<msg id="44" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>5229,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:31 2015</timestamp>
+</msg>
+<msg id="45" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll</arg>
+  <arg>0x6E200000</arg>
+  <arg>0x6E27CFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:32 2015</timestamp>
+</msg>
+<msg id="46" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>29276,0,0,0,11</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:32 2015</timestamp>
+</msg>
+<msg id="47" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>2548,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:33 2015</timestamp>
+</msg>
+<msg id="48" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>21327,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:34 2015</timestamp>
+</msg>
+<msg id="49" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>11759,0,0,0,138</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:35 2015</timestamp>
+</msg>
+<msg id="50" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>33522,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:36 2015</timestamp>
+</msg>
+<msg id="51" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\CRYPTSP.dll</arg>
+  <arg>0x6FEB0000</arg>
+  <arg>0x6FEC6FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:36 2015</timestamp>
+</msg>
+<msg id="52" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\rsaenh.dll</arg>
+  <arg>0x6FE70000</arg>
+  <arg>0x6FEAAFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:36 2015</timestamp>
+</msg>
+<msg id="53" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>45891,0,0,0,11</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:37 2015</timestamp>
+</msg>
+<msg id="54" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>51002,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:38 2015</timestamp>
+</msg>
+<msg id="55" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>39035,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:39 2015</timestamp>
+</msg>
+<msg id="56" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>53420,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:40 2015</timestamp>
+</msg>
+<msg id="57" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>73621,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:41 2015</timestamp>
+</msg>
+<msg id="58" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>46313,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:42 2015</timestamp>
+</msg>
+<msg id="59" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>82966,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:43 2015</timestamp>
+</msg>
+<msg id="60" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>37210,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:44 2015</timestamp>
+</msg>
+<msg id="61" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>25725,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:45 2015</timestamp>
+</msg>
+<msg id="62" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>149999,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:46 2015</timestamp>
+</msg>
+<msg id="63" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>0,1,1,1,1</arg>
+  <arg>174017,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:47 2015</timestamp>
+</msg>
+<msg id="64" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>9551,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:48 2015</timestamp>
+</msg>
+<msg id="65" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:49 2015</timestamp>
+</msg>
+<msg id="66" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:50 2015</timestamp>
+</msg>
+<msg id="67" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:51 2015</timestamp>
+</msg>
+<msg id="68" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:52 2015</timestamp>
+</msg>
+<msg id="69" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:53 2015</timestamp>
+</msg>
+<msg id="70" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:54 2015</timestamp>
+</msg>
+<msg id="71" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:55 2015</timestamp>
+</msg>
+<msg id="72" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:56 2015</timestamp>
+</msg>
+<msg id="73" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:57 2015</timestamp>
+</msg>
+<msg id="74" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:58 2015</timestamp>
+</msg>
+<msg id="75" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,22,0,1089,1162,1006</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:51:59 2015</timestamp>
+</msg>
+<msg id="76" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:00 2015</timestamp>
+</msg>
+<msg id="77" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:01 2015</timestamp>
+</msg>
+<msg id="78" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:02 2015</timestamp>
+</msg>
+<msg id="79" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:03 2015</timestamp>
+</msg>
+<msg id="80" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:04 2015</timestamp>
+</msg>
+<msg id="81" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:05 2015</timestamp>
+</msg>
+<msg id="82" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:06 2015</timestamp>
+</msg>
+<msg id="83" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:07 2015</timestamp>
+</msg>
+<msg id="84" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:08 2015</timestamp>
+</msg>
+<msg id="85" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:09 2015</timestamp>
+</msg>
+<msg id="86" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:10 2015</timestamp>
+</msg>
+<msg id="87" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:11 2015</timestamp>
+</msg>
+<msg id="88" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:12 2015</timestamp>
+</msg>
+<msg id="89" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:13 2015</timestamp>
+</msg>
+<msg id="90" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:14 2015</timestamp>
+</msg>
+<msg id="91" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:15 2015</timestamp>
+</msg>
+<msg id="92" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:16 2015</timestamp>
+</msg>
+<msg id="93" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:17 2015</timestamp>
+</msg>
+<msg id="94" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:18 2015</timestamp>
+</msg>
+<msg id="95" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:19 2015</timestamp>
+</msg>
+<msg id="96" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:20 2015</timestamp>
+</msg>
+<msg id="97" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:21 2015</timestamp>
+</msg>
+<msg id="98" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:22 2015</timestamp>
+</msg>
+<msg id="99" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:23 2015</timestamp>
+</msg>
+<msg id="100" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:24 2015</timestamp>
+</msg>
+<msg id="101" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:25 2015</timestamp>
+</msg>
+<msg id="102" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:26 2015</timestamp>
+</msg>
+<msg id="103" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:27 2015</timestamp>
+</msg>
+<msg id="104" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:28 2015</timestamp>
+</msg>
+<msg id="105" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,22,0,85,163,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:29 2015</timestamp>
+</msg>
+<msg id="106" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:30 2015</timestamp>
+</msg>
+<msg id="107" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:31 2015</timestamp>
+</msg>
+<msg id="108" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:32 2015</timestamp>
+</msg>
+<msg id="109" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:33 2015</timestamp>
+</msg>
+<msg id="110" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:34 2015</timestamp>
+</msg>
+<msg id="111" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:35 2015</timestamp>
+</msg>
+<msg id="112" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:36 2015</timestamp>
+</msg>
+<msg id="113" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:37 2015</timestamp>
+</msg>
+<msg id="114" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:38 2015</timestamp>
+</msg>
+<msg id="115" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:39 2015</timestamp>
+</msg>
+<msg id="116" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:40 2015</timestamp>
+</msg>
+<msg id="117" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:41 2015</timestamp>
+</msg>
+<msg id="118" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:42 2015</timestamp>
+</msg>
+<msg id="119" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:43 2015</timestamp>
+</msg>
+<msg id="120" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:44 2015</timestamp>
+</msg>
+<msg id="121" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:45 2015</timestamp>
+</msg>
+<msg id="122" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:46 2015</timestamp>
+</msg>
+<msg id="123" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:47 2015</timestamp>
+</msg>
+<msg id="124" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:48 2015</timestamp>
+</msg>
+<msg id="125" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:49 2015</timestamp>
+</msg>
+<msg id="126" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:50 2015</timestamp>
+</msg>
+<msg id="127" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:51 2015</timestamp>
+</msg>
+<msg id="128" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:52 2015</timestamp>
+</msg>
+<msg id="129" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:53 2015</timestamp>
+</msg>
+<msg id="130" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:54 2015</timestamp>
+</msg>
+<msg id="131" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:55 2015</timestamp>
+</msg>
+<msg id="132" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:56 2015</timestamp>
+</msg>
+<msg id="133" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:57 2015</timestamp>
+</msg>
+<msg id="134" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:58 2015</timestamp>
+</msg>
+<msg id="135" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:52:59 2015</timestamp>
+</msg>
+<msg id="136" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:53:00 2015</timestamp>
+</msg>
+<msg id="137" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:53:01 2015</timestamp>
+</msg>
+<msg id="138" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:53:02 2015</timestamp>
+</msg>
+<msg id="139" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:53:03 2015</timestamp>
+</msg>
+<msg id="140" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:53:04 2015</timestamp>
+</msg>
+<msg id="141" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220,5992</arg>
+  <arg>1,1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:53:05 2015</timestamp>
+</msg>
+<msg id="142" tool="mc">
+  <type>HEARTBEAT</type>
+  <arg>8764,7572,10312,5412,11152,9668,5220</arg>
+  <arg>1,1,1,1,1,1,1</arg>
+  <arg>0,0,0,0,0,0,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jan 04 12:53:06 2015</timestamp>
+</msg>
+<msg id="143" tool="runtool">
+  <type>app-exit-code</type>
+  <arg>1</arg>
+</msg>
+<msg id="144" tool="runtool">
+  <type>marker-file</type>
+  <arg>E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\My Inspector XE Results - Faz_2_ANTLR\r000mi2\r000mi2.inspxe</arg>
+</msg>
+<msg id="145" tool="runtool">
+  <type>collector-canceled</type>
+</msg>
+<msg id="146" tool="runtool">
+  <type>log-end</type>
+  <arg>2015/01/04 12:53:10</arg>
+</msg>
+
+</log>
+

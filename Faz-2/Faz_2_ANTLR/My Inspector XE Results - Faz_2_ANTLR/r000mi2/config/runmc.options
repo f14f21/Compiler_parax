@@ -1,0 +1,17 @@
+-r
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\My Inspector XE Results - Faz_2_ANTLR\r000mi2
+--check-invalid-access
+--no-analyze-stack
+--leak-maximum=100000
+--leak-check-on-exit
+--leak-check-on-demand
+--check-resource-leaks
+--leak-check-report-reachable
+--freelist-vol=0
+--guard-zone-size=0
+--stack-depth=8
+--no-close-console
+--heartbeat=1
+--enable-memory-growth
+--
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\bin\Debug\Faz_2_ANTLR.exe

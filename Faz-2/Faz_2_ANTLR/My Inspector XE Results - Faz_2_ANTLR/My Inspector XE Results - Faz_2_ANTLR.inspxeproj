@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <connectionOption></connectionOption>
+ <rdmgr>
+  <timestamp type="u64_t">1420363233</timestamp>
+  <hostname>abasi-lap.tvto.in</hostname>
+  <os>windows</os>
+  <product>Intel® Inspector XE 2015 Update 1</product>
+  <buildNumber type="s32_t">379161</buildNumber>
+  <logicalCPUCount type="s32_t">4</logicalCPUCount>
+  <CPUFrequency type="s64_t">1800000000</CPUFrequency>
+ </rdmgr>
+ <contextValues type="bag"/>
+ <All_Configurations-All_Platforms>
+  <analysis_type_settings>
+   <selected_analysis_type_path>C:\Program Files (x86)\Intel\Inspector XE 2015\config\analysis_type\mi2.cfg</selected_analysis_type_path>
+  </analysis_type_settings>
+  <target_settings>
+   <result_pattern>
+    <localhost>r@@@{at}</localhost>
+   </result_pattern>
+   <workloads>
+    <localhost>
+     <launch type="pointer" type_id="dasID_cctrl2::ApplicationWorkload" ptr_type="dasID_cctrl2::IWorkload">
+      <workload>
+       <targetName>launch</targetName>
+       <enable_app_output_log type="bool">false</enable_app_output_log>
+       <project_id>{A15E1454-B296-4306-9575-2F977E73F6C2}</project_id>
+       <launch_app.app_to_launch>E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\bin\Debug\Faz_2_ANTLR.exe</launch_app.app_to_launch>
+       <launch_app.working_folder>E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\bin\Debug</launch_app.working_folder>
+       <use_app_dir_as_work_dir type="bool">false</use_app_dir_as_work_dir>
+       <result_directory.path>E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\My Inspector XE Results - Faz_2_ANTLR\r@@@{at}</result_directory.path>
+       <search_directories>
+        <item>
+         <value>sym=E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR</value>
+        </item>
+       </search_directories>
+       <exclude_modules type="bag"/>
+       <context>
+        <contextValue>
+         <id>appdebug</id>
+         <value>off</value>
+        </contextValue>
+        <contextValue>
+         <id>custom_debugger</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>debug_this_problem</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>debug_using</id>
+         <value>gdb</value>
+        </contextValue>
+        <contextValue>
+         <id>heartbeat</id>
+         <value type="bool">true</value>
+        </contextValue>
+        <contextValue>
+         <id>modules_switch</id>
+         <value>knob.modules_switch.include</value>
+        </contextValue>
+        <contextValue>
+         <id>mrte_mode</id>
+         <value>managed</value>
+        </contextValue>
+        <contextValue>
+         <id>process_for_analysis</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>suppressions</id>
+         <value>delete</value>
+        </contextValue>
+        <contextValue>
+         <id>targetType</id>
+         <value>launch</value>
+        </contextValue>
+       </context>
+      </workload>
+     </launch>
+    </localhost>
+   </workloads>
+  </target_settings>
+ </All_Configurations-All_Platforms>
+ <debugger_settings>
+  <debugger_mode>off</debugger_mode>
+  <at_cliname>mi2</at_cliname>
+ </debugger_settings>
+</root>

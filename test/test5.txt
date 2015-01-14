@@ -1,0 +1,12 @@
+void main() 
+{  
+	x='hamed';
+	if (a==4)
+		if(a%2==3){
+			
+		}
+    		else {
+			for(i=n;i>=0;++i )
+				print(i);	
+    		}
+}		

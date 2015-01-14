@@ -1,0 +1,6 @@
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\obj\Debug\Faz_1Lexer.cs
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\obj\Debug\Faz_1Parser.cs
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\obj\Debug\Faz_1Listener.cs
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\obj\Debug\Faz_1BaseListener.cs
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\obj\Debug\Faz_1Visitor.cs
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\obj\Debug\Faz_1BaseVisitor.cs

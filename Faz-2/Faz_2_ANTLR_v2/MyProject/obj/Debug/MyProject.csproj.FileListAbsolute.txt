@@ -1,0 +1,15 @@
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\bin\Debug\MyProject.exe.config
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\obj\Debug\cLexer.cs
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\obj\Debug\cParser.cs
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\obj\Debug\cListener.cs
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\obj\Debug\cBaseListener.cs
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\obj\Debug\cVisitor.cs
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\obj\Debug\cBaseVisitor.cs
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\obj\Debug\MyProject.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\bin\Debug\MyProject.exe
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\bin\Debug\MyProject.pdb
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\bin\Debug\Antlr4.Runtime.net45.dll
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\bin\Debug\Antlr4.Runtime.net45.xml
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\obj\Debug\MyProject.exe
+E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR_v2\MyProject\obj\Debug\MyProject.pdb

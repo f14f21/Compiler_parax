@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feedback>
+ <message severity="info">Analysis started...</message>
+ <nop/>
+ <message severity="info">Result file: E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\My Inspector XE Results - Faz_2_ANTLR\r000mi2\r000mi2.inspxe </message>
+ <nop/>
+ <message severity="info">Analysis started for E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\bin\Debug\Faz_2_ANTLR.exe (pid = 10432) </message>
+ <nop/>
+ <message severity="info">Loaded module: E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\bin\Debug\Faz_2_ANTLR.exe, address range [0x01170000-0x0117DFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\detoured.dll, address range [0x0F000000-0x0F005FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\Intel\Inspector XE 2015\bin32\ccrt12.dll, address range [0x56000000-0x5616BFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\MSCOREE.DLL, address range [0x70030000-0x70079FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvdxgiwrap.dll, address range [0x70360000-0x7037EFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\NVIDIA Corporation\CoProcManager\nvd3d9wrap.dll, address range [0x70470000-0x7049AFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SysWOW64\nvinit.dll, address range [0x731E0000-0x7320BFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\CRYPTBASE.dll, address range [0x752D0000-0x752DBFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\SspiCli.dll, address range [0x752E0000-0x7533FFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\GDI32.dll, address range [0x753C0000-0x7544FFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\SETUPAPI.dll, address range [0x75450000-0x755ECFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\OLEAUT32.dll, address range [0x755F0000-0x7567EFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\ole32.dll, address range [0x75680000-0x757DBFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\IMM32.DLL, address range [0x75830000-0x7588FFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\RPCRT4.dll, address range [0x75AD0000-0x75BBFFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\DEVOBJ.dll, address range [0x75BC0000-0x75BD1FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SysWOW64\sechost.dll, address range [0x75C60000-0x75C78FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\LPK.dll, address range [0x75E50000-0x75E59FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\CFGMGR32.dll, address range [0x75E60000-0x75E86FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\USP10.dll, address range [0x75E90000-0x75F2CFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\ADVAPI32.dll, address range [0x76340000-0x763DFFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\USER32.dll, address range [0x763E0000-0x764DFFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\KERNEL32.dll, address range [0x76570000-0x7667FFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\msvcrt.dll, address range [0x76680000-0x7672BFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\KERNELBASE.dll, address range [0x76730000-0x76776FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\MSCTF.dll, address range [0x767E0000-0x768ABFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SysWOW64\ntdll.dll, address range [0x77900000-0x77A7FFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll, address range [0x6FDC0000-0x6FE3DFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\syswow64\SHLWAPI.dll, address range [0x76780000-0x767D6FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll, address range [0x6F570000-0x6FC0EFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\MSVCR120_CLR0400.dll, address range [0x6F2F0000-0x6F3C6FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\Intel\Inspector XE 2015\bin32\dnclrprof.dll, address range [0x10000000-0x1002DFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\VERSION.dll, address range [0x72930000-0x72938FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll, address range [0x6E200000-0x6E27CFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\CRYPTSP.dll, address range [0x6FEB0000-0x6FEC6FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\rsaenh.dll, address range [0x6FE70000-0x6FEAAFFF] </message>
+ <nop/>
+ <message severity="info">Application exit code: 1 </message>
+ <nop/>
+ <message severity="info">Result file: E:\Asp.net\Compiler_parax\Faz-2\Faz_2_ANTLR\My Inspector XE Results - Faz_2_ANTLR\r000mi2\r000mi2.inspxe </message>
+ <nop/>
+ <message severity="info">Analysis canceled by user</message>
+ <nop/>
+</feedback>
